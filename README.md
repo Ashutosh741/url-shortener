@@ -19,7 +19,7 @@ https://urlshortner-5ape.onrender.com
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/url-shortener.git
+  git clone https://github.com/Ashutosh741/url-shortener.git
 ```
 
 Go to the project directory
